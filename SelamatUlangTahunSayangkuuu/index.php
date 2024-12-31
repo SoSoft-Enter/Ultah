@@ -202,9 +202,10 @@
     <div id="letter" class="content">
         <div class="letter-frame">
             <div class="message">
-                Happy Birthday! 🎉<br>
-                Semoga hari ini membawa kebahagiaan luar biasa, cinta yang mendalam, dan semua impianmu menjadi kenyataan. Kamu adalah seseorang yang luar biasa, dan dunia menjadi lebih cerah karena kehadiranmu.<br><br>
-                Jangan pernah berhenti mengejar impianmu, karena kamu pantas mendapatkan yang terbaik. Selamat menikmati hari spesialmu!
+                Happy Birthday Sayangkuuuu Cantikkkk! 🎉<br>
+                <br>
+                Semoga selanjutnya ayangku tambah cantik dan tambah pinterrrr. Rejekinya di banyakin sama yang atas biar bisa beli Honda brio wokwokwk. Kamu adalah seseorang yang luar biasa, dan dunia menjadi lebih cerah karena kehadiranmu.<br><br>
+                Jangan pernah berhenti mengejar impianmu, karena kamu pantas mendapatkan yang terbaik. Selamat menikmati hari spesialmu! Love u SAYANGKUUUUU
             </div>
         </div>
     </div>
